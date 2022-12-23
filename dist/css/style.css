@@ -1272,7 +1272,7 @@ label {
 	transform: perspective(500px) rotateY(-15deg) rotateX(8deg) rotateZ(-1deg);
 
 	/* KRX */
-    background: url(../images/krx-logo.png);
+    background: url(../images/bundle-logo.png);
     background-size: cover;
 	background-position: center;
     z-index: 1;
